@@ -13,8 +13,8 @@ function App() {
           </div>
 
           <div className="ml-auto" />
-          <SocialIcon icon={faXTwitter} href="https://x.com/auurtwrch" size='sm' hoverColor='black' />
-          <SocialIcon icon={faGithub} href="https://github.com/auurtwrch" size='sm' hoverColor='black' />
+          <SocialIcon icon={faXTwitter} href="https://x.com/goudbor" size='sm' hoverColor='black' />
+          <SocialIcon icon={faGithub} href="https://github.com/goudbor" size='sm' hoverColor='black' />
         </div>
         <div className="p-4">
           <Outlet />
